@@ -1,5 +1,3 @@
-# Snippets de desenvolvimento
-
 {
 	"debug": {
 		"prefix": "debug",
@@ -16,13 +14,13 @@
 		"body": "if(isset(\\$_GET['test'])){\r\n $1\r\n}",
 		"description": "teste test"
 	},
-	"testX":{
+	"testX": {
 		"prefix": "testX",
 		"body": "if(isset(\\$_GET['test'])){\r\n echo '<pre>Init >><br/>';\r\nprint_r(\\$_POST);\r\necho '<br/>Type >><br/>'; \r\nvar_dump(\\$_POST); \r\necho '<br/>Backtrace >><br/>'; \r\nvar_dump(debug_backtrace()); \r\nprint_r(debug_backtrace());\r\necho '</pre>'; \r\nexit('Teste close'); \r\n}"
 	},
 	"debugeX": {
-		"prefix":"debugeX",
-		"body":"echo '<pre>';\r\nprint_r(\\$_POST);\r\necho '<br/>Type >><br/>'; \r\nvar_dump(\\$_POST); \r\necho '<br/>Backtrace >><br/>'; \r\nvar_dump(debug_backtrace()); \r\nprint_r(debug_backtrace());\r\necho '</pre>'; \r\nexit('Teste close');"
+		"prefix": "debugeX",
+		"body": "echo '<pre>';\r\nprint_r(\\$_POST);\r\necho '<br/>Type >><br/>'; \r\nvar_dump(\\$_POST); \r\necho '<br/>Backtrace >><br/>'; \r\nvar_dump(debug_backtrace()); \r\nprint_r(debug_backtrace());\r\necho '</pre>'; \r\nexit('Teste close');"
 	},
 	"get-errors": {
 		"prefix": "display_errors",
