@@ -1,5 +1,5 @@
 # Problema
-Quando você tenta rodar composer install ele retorna uma mensagens com um erro dizendo que devidas extensões não estão abilitadas
+ - Quando você tenta rodar composer install ele retorna uma mensagens com um erro dizendo que devidas extensões não estão abilitadas
 
 # Processos
  - Apague a pasta vendor(caso ela tenha sido criada)
