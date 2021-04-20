@@ -1,2 +1,2 @@
 # Auxiliares
-Coisas para auxiliar em formatação entre outros
+Conteúdos, comandos, snippets entre outros para auxiliar o trabalho em inumeros casos
