@@ -1,0 +1,3 @@
+control + shift + p
+
+thema origamid
