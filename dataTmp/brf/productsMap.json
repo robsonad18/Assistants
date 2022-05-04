@@ -7,7 +7,7 @@
         "sku": "493239",
         "preco": "22.19",
         "descricao": "Cora��o de Frango Congelado Temperado Molho Shoyu Perdig�o Na Brasa 800g",
-        "Id": "01t4A00000J3LBgQAN",
+        "id": "01t4A00000J3LBgQAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgliQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -18,7 +18,7 @@
         "sku": "493484",
         "preco": "15.69",
         "descricao": "Coxinha da Asa de Frango Temperada Molho Mostarda Perdig�o Na Brasa 800g",
-        "Id": "01t4A00000J3LBmQAN",
+        "id": "01t4A00000J3LBmQAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024Ch1RQAS&oid=00D410000012TJaEAM"
     },
     {
@@ -29,7 +29,7 @@
         "sku": "493650",
         "preco": "11.69",
         "descricao": "Sobrecoxa de Frango Congelada Temperada Molho Chimichurri Perdig�o Na Brasa 800g",
-        "Id": "01t4A00000J3LBoQAN",
+        "id": "01t4A00000J3LBoQAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024Cgj5QAC&oid=00D410000012TJaEAM"
     },
     {
@@ -40,7 +40,7 @@
         "sku": "579707",
         "preco": "27.27",
         "descricao": "Panceta Su�na Congelada Temperada Toque de Lim�o Perdig�o Na Brasa",
-        "Id": "01t4A00000LOJuwQAH",
+        "id": "01t4A00000LOJuwQAH",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024Cgp1QAC&oid=00D410000012TJaEAM"
     },
     {
@@ -51,7 +51,7 @@
         "sku": "579730",
         "preco": "30.54",
         "descricao": "Picanha Su�na Congelada Temperada Alho e Ervas Perdig�o Na Brasa",
-        "Id": "01t4A00000LOJuxQAH",
+        "id": "01t4A00000LOJuxQAH",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024Cgp6QAC&oid=00D410000012TJaEAM"
     },
     {
@@ -62,7 +62,7 @@
         "sku": "579731",
         "preco": "19.13",
         "descricao": "Copa Lombo Su�na Congelada Temperada Chimichurri Perdig�o Na Brasa",
-        "Id": "01t4A00000LOJuyQAH",
+        "id": "01t4A00000LOJuyQAH",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgxjQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -73,7 +73,7 @@
         "sku": "703657",
         "preco": "10.59",
         "descricao": "P�o de Alho Perdig�o Na Brasa Pacote 330g",
-        "Id": "01t4A00000NSgdBQAT",
+        "id": "01t4A00000NSgdBQAT",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TsyD&oid=00D410000012TJa&lastMod=1651520316000"
     },
     {
@@ -84,7 +84,7 @@
         "sku": "704066",
         "preco": "68.54",
         "descricao": "Queijo Coalho em Espeto Perdig�o Na Brasa 7 Unidades",
-        "Id": "01t4A00000NSgj5QAD",
+        "id": "01t4A00000NSgj5QAD",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TsyS&oid=00D410000012TJa&lastMod=1651520534000"
     },
     {
@@ -95,7 +95,7 @@
         "sku": "891979",
         "preco": "24.83",
         "descricao": "Lingui�a de Frango Perdig�o Na Brasa 1kg",
-        "Id": "01t4A00000J3KA0QAN",
+        "id": "01t4A00000J3KA0QAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgqUQAS&oid=00D410000012TJaEAM"
     },
     {
@@ -106,7 +106,7 @@
         "sku": "891985",
         "preco": "22.94",
         "descricao": "Lingui�a Toscana Apimentada Perdig�o Na Brasa 1kg",
-        "Id": "01t4A00000J3KA2QAN",
+        "id": "01t4A00000J3KA2QAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgseQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -117,7 +117,7 @@
         "sku": "967158",
         "preco": "110.24",
         "descricao": "Lingui�a Toscana Perdig�o Na Brasa 5kg",
-        "Id": "01t4A00000J3KAoQAN",
+        "id": "01t4A00000J3KAoQAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgsPQAS&oid=00D410000012TJaEAM"
     },
     {
@@ -128,7 +128,7 @@
         "sku": "891985",
         "preco": "22.94",
         "descricao": "Lingui�a Toscana Apimentada Perdig�o Na Brasa 1kg",
-        "Id": "01t4A00000J3KA2QAN",
+        "id": "01t4A00000J3KA2QAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgseQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -139,7 +139,7 @@
         "sku": "493650",
         "preco": "11.69",
         "descricao": "Sobrecoxa de Frango Congelada Temperada Molho Chimichurri Perdig�o Na Brasa 800g",
-        "Id": "01t4A00000J3LBoQAN",
+        "id": "01t4A00000J3LBoQAN",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024Cgj5QAC&oid=00D410000012TJaEAM"
     },
     {
@@ -150,7 +150,7 @@
         "sku": "704902",
         "preco": "11.49",
         "descricao": "Farofa de Mandioca Perdig�o Na Brasa Pouch 300g",
-        "Id": "01t4A00000NSgy9QAD",
+        "id": "01t4A00000NSgy9QAD",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsym&oid=00D410000012TJa&lastMod=1651520624000"
     },
     {
@@ -161,7 +161,7 @@
         "sku": "645962",
         "preco": "14.19",
         "descricao": "Queijo Mussarela Fatiado Sadia 200g",
-        "Id": "01t4A00000MsZ3EQAV",
+        "id": "01t4A00000MsZ3EQAV",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgqiQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -172,7 +172,7 @@
         "sku": "645964",
         "preco": "9.99",
         "descricao": "Queijo Prato Fatiado Sadia Solt�ssimo 200g",
-        "Id": "01t4A00000MsZ3DQAV",
+        "id": "01t4A00000MsZ3DQAV",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgmIQAS&oid=00D410000012TJaEAM"
     },
     {
@@ -183,7 +183,7 @@
         "sku": "753398",
         "preco": "5.99",
         "descricao": "Cerveja Becks long neck 330ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FAmbev%5FBecks%20unidade%5F330ml%2Epng&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -194,7 +194,7 @@
         "sku": "753400",
         "preco": "3.49",
         "descricao": "Cerveja Budweiser lata 269ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FAmbev%5FBudweiser%20unidade%5F269ml%2Epng&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -205,7 +205,7 @@
         "sku": "714459",
         "preco": "15.19",
         "descricao": "Hamb�rguer Vegetal Sadia Veg & Tal Bandeja 226g 2 Unidades",
-        "Id": "01t4w00000NyKqhAAF",
+        "id": "01t4w00000NyKqhAAF",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TgSb&oid=00D410000012TJa&lastMod=1621283917000"
     },
     {
@@ -216,7 +216,7 @@
         "sku": "712174",
         "preco": "19.99",
         "descricao": "Frango Vegetal Cubos Sadia Veg & Tal Pacote 300g",
-        "Id": "01t4w00000NyKLaAAN",
+        "id": "01t4w00000NyKLaAAN",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024zgYe&oid=00D410000012TJa&lastMod=1612980697000"
     },
     {
@@ -227,7 +227,7 @@
         "sku": "753393",
         "preco": "4",
         "descricao": "Guaran� Antarctica lata 350 ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FAmbev%5FGuaran%C3%A1%20unidade%5F350ml%2Epng&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -238,7 +238,7 @@
         "sku": "753381",
         "preco": "8.59",
         "descricao": "Guaran� Antarctica garrafa 2 litros",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FAmbev%5FGuaran%C3%A1%20Pet%5F2L%2Ejpg&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -249,7 +249,7 @@
         "sku": "579663",
         "preco": "24.56",
         "descricao": "Costela Su�na Congelada Temperada Barbecue Perdig�o Na Brasa",
-        "Id": "01t4A00000LOJutQAH",
+        "id": "01t4A00000LOJutQAH",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CggAQAS&oid=00D410000012TJaEAM"
     },
     {
@@ -260,7 +260,7 @@
         "sku": "470848",
         "preco": "16.99",
         "descricao": "Sobrecoxa de Frango Congelada Sadia 1kg",
-        "Id": "01t4A00000J3K0SQAV",
+        "id": "01t4A00000J3K0SQAV",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024Cgu6QAC&oid=00D410000012TJaEAM"
     },
     {
@@ -271,7 +271,7 @@
         "sku": "350393",
         "preco": "21.48",
         "descricao": "Coxinha da Asa de Frango Congelada Sadia Bandeja 1kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FSadia%5FCoxinha%20da%20asa%5F1Kg%2Ejpg&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -282,7 +282,7 @@
         "sku": "352600",
         "preco": "26.68",
         "descricao": "Meio da Asa de Frango Congelada Sadia 1kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FSadia%5FMeio%20da%20Asa%2Ejpg&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -293,7 +293,7 @@
         "sku": "753407",
         "preco": "5.59",
         "descricao": "Cerveja Stella Artois long neck 330ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FAmbev%5FStella%20unidade%5F330ml%2Epng&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -304,7 +304,7 @@
         "sku": "753326",
         "preco": "23.19",
         "descricao": "Molho de Pimenta vermelha Tabasco 60ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tspp&oid=00D410000012TJa&lastMod=1651493186000"
     },
     {
@@ -315,7 +315,7 @@
         "sku": "753328",
         "preco": "23.19",
         "descricao": "Molho de Pimenta jalape�o Tabasco 60 ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tspk&oid=00D410000012TJa&lastMod=1651493086000"
     },
     {
@@ -326,7 +326,7 @@
         "sku": "753347",
         "preco": "23.19",
         "descricao": "Molho de Pimenta chipotle Tabasco 60 ml",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tspf&oid=00D410000012TJa&lastMod=1651492817000"
     },
     {
@@ -337,7 +337,7 @@
         "sku": "753151",
         "preco": "5.69",
         "descricao": "P�o franc�s 320g",
-        "Id": "01t4w00000MgJNLAA3",
+        "id": "01t4w00000MgJNLAA3",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TpID&oid=00D410000012TJa&lastMod=1643628975000"
     },
     {
@@ -348,7 +348,7 @@
         "sku": "752958",
         "preco": "7.9",
         "descricao": "Acendedor de churrasqueira",
-        "Id": "01t4w00000MgJKYAA3",
+        "id": "01t4w00000MgJKYAA3",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrKf&oid=00D410000012TJa&lastMod=1648575742000"
     },
     {
@@ -359,7 +359,7 @@
         "sku": "752957",
         "preco": "13.99",
         "descricao": "Carv�o Vegetal 3 kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TspQ&oid=00D410000012TJa&lastMod=1651492424000"
     },
     {
@@ -370,7 +370,7 @@
         "sku": "702689",
         "preco": "65.99",
         "descricao": "Acem (Short Rib)",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FBassi%5FShort%20Rib%2Ejpg&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -381,7 +381,7 @@
         "sku": "702645",
         "preco": "73.1",
         "descricao": "Contrafil� chorizo Bassi 1kg",
-        "Id": "01t4A00000NSfV9QAL",
+        "id": "01t4A00000NSfV9QAL",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrFp&oid=00D410000012TJa&lastMod=1648560115000"
     },
     {
@@ -392,7 +392,7 @@
         "sku": "739377",
         "preco": "67.67",
         "descricao": "Costela do dianteiro (Assado de tiras) Bassi 1kg",
-        "Id": "01t4w00000MgFQ1AAN",
+        "id": "01t4w00000MgFQ1AAN",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Th2z&oid=00D410000012TJa&lastMod=1622207470000"
     },
     {
@@ -403,7 +403,7 @@
         "sku": "702696",
         "preco": "69.19",
         "descricao": "Fil� de costela Ancho Bassi 1kg",
-        "Id": "01t4A00000NSfZhQAL",
+        "id": "01t4A00000NSfZhQAL",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Th47&oid=00D410000012TJa&lastMod=1622213455000"
     },
     {
@@ -414,7 +414,7 @@
         "sku": "702659",
         "preco": "64.1",
         "descricao": "Fralda Bassi 1kg",
-        "Id": "01t4A00000NSfVHQA1",
+        "id": "01t4A00000NSfVHQA1",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrG9&oid=00D410000012TJa&lastMod=1648563685000"
     },
     {
@@ -425,7 +425,7 @@
         "sku": "702694",
         "preco": "89",
         "descricao": "Lombo (Prime Rib) Bassi 1kg",
-        "Id": "01t4A00000NSfZfQAL",
+        "id": "01t4A00000NSfZfQAL",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrH7&oid=00D410000012TJa&lastMod=1648566209000"
     },
     {
@@ -436,7 +436,7 @@
         "sku": "728493",
         "preco": "73.49",
         "descricao": "Maminha da Alcatra Angus Bassi 1kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FBassi%5FMaminha%20congelada%2Ejpg&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -447,7 +447,7 @@
         "sku": "702660",
         "preco": "67.7",
         "descricao": "Maminha da Alcatra Bassi 1kg",
-        "Id": "01t4A00000NSfVIQA1",
+        "id": "01t4A00000NSfVIQA1",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrGT&oid=00D410000012TJa&lastMod=1648564336000"
     },
     {
@@ -458,7 +458,7 @@
         "sku": "702677",
         "preco": "137.09",
         "descricao": "Picanha Bassi 1kg",
-        "Id": "01t4A00000NSfVWQA1",
+        "id": "01t4A00000NSfVWQA1",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrGs&oid=00D410000012TJa&lastMod=1648565941000"
     },
     {
@@ -469,7 +469,7 @@
         "sku": "702661",
         "preco": "149.49",
         "descricao": "Picanha Angus Bassi 1kg",
-        "Id": "01t4A00000NSfVJQA1",
+        "id": "01t4A00000NSfVJQA1",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrGd&oid=00D410000012TJa&lastMod=1648564535000"
     },
     {
@@ -480,7 +480,7 @@
         "sku": "702643",
         "preco": "95.71",
         "descricao": "Picanha Montana Steakhouse 1kg",
-        "Id": "01t4A00000NSfV7QAL",
+        "id": "01t4A00000NSfV7QAL",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrKG&oid=00D410000012TJa&lastMod=1648575485000"
     },
     {
@@ -491,7 +491,7 @@
         "sku": "603731",
         "preco": "99.19",
         "descricao": "Picanha Uruguaia Tacuarembo 1kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FTacuaremb%C3%B3%5FPicanha%20Uruguaia%2Ejpg&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -502,7 +502,7 @@
         "sku": "702695",
         "preco": "98.29",
         "descricao": "Tibone Bassi 1kg",
-        "Id": "01t4A00000NSfZgQAL",
+        "id": "01t4A00000NSfZgQAL",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TrHM&oid=00D410000012TJa&lastMod=1648566313000"
     },
     {
@@ -513,7 +513,7 @@
         "sku": "694798",
         "preco": "11.59",
         "descricao": "Manteiga Extra com Sal Qualy Pote 200g",
-        "Id": "01t4A00000MzIYJQA3",
+        "id": "01t4A00000MzIYJQA3",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024zgLp&oid=00D410000012TJa&lastMod=1608581369000"
     },
     {
@@ -524,7 +524,7 @@
         "sku": "694910",
         "preco": "11.59",
         "descricao": "Manteiga Extra sem Sal Qualy Pote 200g",
-        "Id": "01t4A00000MzIYIQA3",
+        "id": "01t4A00000MzIYIQA3",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024zgLu&oid=00D410000012TJa&lastMod=1608581410000"
     },
     {
@@ -535,7 +535,7 @@
         "sku": "694925",
         "preco": "6.99",
         "descricao": "Requeij�o Cremoso com Queijo Light Qualy Copo 200g",
-        "Id": "01t4A00000MzIY2QAN",
+        "id": "01t4A00000MzIY2QAN",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024zgME&oid=00D410000012TJa&lastMod=1608581609000"
     },
     {
@@ -546,7 +546,7 @@
         "sku": "694914",
         "preco": "6.99",
         "descricao": "Requeij�o Cremoso com Queijo Tradicional Qualy Copo 200g",
-        "Id": "01t4A00000MzIY3QAN",
+        "id": "01t4A00000MzIY3QAN",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024zgMJ&oid=00D410000012TJa&lastMod=1608581639000"
     },
     {
@@ -557,7 +557,7 @@
         "sku": "753279",
         "preco": "16.9",
         "descricao": "Sal de Parrilla BR Spices 1,1 Kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tspz&oid=00D410000012TJa&lastMod=1651494125000"
     },
     {
@@ -568,7 +568,7 @@
         "sku": "753280",
         "preco": "18.9",
         "descricao": "Sal de Parrilla com alho BR Spices 1,015 Kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsom&oid=00D410000012TJa&lastMod=1651491096000"
     },
     {
@@ -579,7 +579,7 @@
         "sku": "753285",
         "preco": "18.9",
         "descricao": "Sal de Parrilla com chimichurri BR Spices 1,01 Kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsor&oid=00D410000012TJa&lastMod=1651491247000"
     },
     {
@@ -590,7 +590,7 @@
         "sku": "753284",
         "preco": "18.9",
         "descricao": "Sal de Churrasco com Pimenta do Reino BR Spices 1,040 Kg",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsow&oid=00D410000012TJa&lastMod=1651491438000"
     },
     {
@@ -601,7 +601,7 @@
         "sku": "753276",
         "preco": "15.9",
         "descricao": "Sal de Churrasco para carne BR Spices 330g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsp1&oid=00D410000012TJa&lastMod=1651491546000"
     },
     {
@@ -612,7 +612,7 @@
         "sku": "753278",
         "preco": "15.9",
         "descricao": "Sal de Churrasco Tradicional BR Spices 300g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsp6&oid=00D410000012TJa&lastMod=1651491824000"
     },
     {
@@ -623,7 +623,7 @@
         "sku": "753241",
         "preco": "17.9",
         "descricao": "Moedor Alho e Cebola e Sal Rosa BR Spices 70g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tspu&oid=00D410000012TJa&lastMod=1651494069000"
     },
     {
@@ -634,7 +634,7 @@
         "sku": "753359",
         "preco": "11.9",
         "descricao": "Mostarda Tradicional Heinz 255g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TspL&oid=00D410000012TJa&lastMod=1651492340000"
     },
     {
@@ -645,7 +645,7 @@
         "sku": "753334",
         "preco": "12.9",
         "descricao": "Ketchup Tradicional Heinz 397g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TspG&oid=00D410000012TJa&lastMod=1651492007000"
     },
     {
@@ -656,7 +656,7 @@
         "sku": "753373",
         "preco": "19.9",
         "descricao": "Molho Barbecue Heinz 397g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TspB&oid=00D410000012TJa&lastMod=1651491918000"
     },
     {
@@ -667,7 +667,7 @@
         "sku": "753364",
         "preco": "13.9",
         "descricao": "Maionese Tradicional Heinz 390g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsoi&oid=00D410000012TJa&lastMod=1651492089000"
     },
     {
@@ -678,7 +678,7 @@
         "sku": "753598",
         "preco": "49.9",
         "descricao": "Sorvete Ben&Jerry's Chocolate Fudge Brown",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TsoX&oid=00D410000012TJa&lastMod=1651490723000"
     },
     {
@@ -689,7 +689,7 @@
         "sku": "753603",
         "preco": "49.9",
         "descricao": "Sorvete Ben&Jerry's Triple Caramel Chunk",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsoh&oid=00D410000012TJa&lastMod=1651490981000"
     },
     {
@@ -700,7 +700,7 @@
         "sku": "753604",
         "preco": "49.9",
         "descricao": "Sorvete Ben&Jerry's New York Super Fudge Chunk",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tsoc&oid=00D410000012TJa&lastMod=1651490826000"
     },
     {
@@ -711,7 +711,7 @@
         "sku": "696029",
         "preco": "0",
         "descricao": "Queijo Emmental President 120g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FPresident%5FQueijo%20Emmental%5F120g%2Epng&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -722,7 +722,7 @@
         "sku": "595832",
         "preco": "13.9",
         "descricao": "Queijo Gruyere fracionado Presidente 160g",
-        "Id": "01t4A00000LOiFPQA1",
+        "id": "01t4A00000LOiFPQA1",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TpqU&oid=00D410000012TJa&lastMod=1644599678000"
     },
     {
@@ -733,7 +733,7 @@
         "sku": "461665",
         "preco": "12.9",
         "descricao": "Queijo Estepe fracionado President 160g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024TspV&oid=00D410000012TJa&lastMod=1651492505000"
     },
     {
@@ -744,7 +744,7 @@
         "sku": "461663",
         "preco": "7.9",
         "descricao": "Queijo Parmes�o ralado President 100g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tspa&oid=00D410000012TJa&lastMod=1651492589000"
     },
     {
@@ -755,7 +755,7 @@
         "sku": "647894",
         "preco": "21.9",
         "descricao": "Queijo Petit Brie President 125g",
-        "Id": "",
+        "id": "",
         "imagem_cnd": "https://brfcorp.sharepoint.com/sites/IndexNovosNegcios/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs%2FPresident%5FQueijo%20Petit%20brie%5F125g%2Epng&parent=%2Fsites%2FIndexNovosNegcios%2FShared%20Documents%2F5%2E%20Projetos%2FDTC%20%2D%20Ocasi%C3%A3o%20Churrasco%2FRappi%2FSuporte%2FFotos%20SKUs"
     },
     {
@@ -766,7 +766,7 @@
         "sku": "647895",
         "preco": "21.9",
         "descricao": "Queijo Petit Camembert President 125g",
-        "Id": "01t4A00000NN0XxQAL",
+        "id": "01t4A00000NN0XxQAL",
         "imagem_cnd": "https://brf--c.na149.content.force.com/servlet/servlet.ImageServer?id=0154w000024Tpp7&oid=00D410000012TJa&lastMod=1644587331000"
     },
     {
@@ -777,7 +777,7 @@
         "sku": "691361",
         "preco": "71.47",
         "descricao": "Torta Goiabada com Cream Cheese Miss Daisy Caixa 500g",
-        "Id": "01t4A00000MzDuJQAV",
+        "id": "01t4A00000MzDuJQAV",
         "imagem_cnd": "https://brf--c.na47.content.force.com/servlet/servlet.ImageServer?id=0154A000023xE5O&oid=00D410000012TJa&lastMod=1597356449000"
     },
     {
@@ -788,7 +788,7 @@
         "sku": "500270",
         "preco": "33.59",
         "descricao": "Torta Holandesa Miss Daisy Caixa 470gr",
-        "Id": "01t4A00000J3K37QAF",
+        "id": "01t4A00000J3K37QAF",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgmqQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -799,7 +799,7 @@
         "sku": "500156",
         "preco": "33.59",
         "descricao": "Torta Mousse de Chocolate com Raspas Miss Daisy Caixa 470g",
-        "Id": "01t4A00000J3K2uQAF",
+        "id": "01t4A00000J3K2uQAF",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CgmlQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -810,7 +810,7 @@
         "sku": "338150",
         "preco": "33.59",
         "descricao": "Torta Mousse de Chocolate Vanilla Miss Daisy Caixa 470gr",
-        "Id": "01t4A00000J3JmGQAV",
+        "id": "01t4A00000J3JmGQAV",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CghlQAC&oid=00D410000012TJaEAM"
     },
     {
@@ -821,7 +821,7 @@
         "sku": "338133",
         "preco": "33.59",
         "descricao": "Torta Mousse de Lim�o Miss Daisy Caixa 470g",
-        "Id": "01t4A00000J3JmFQAV",
+        "id": "01t4A00000J3JmFQAV",
         "imagem_cnd": "https://brf.my.salesforce.com/servlet/servlet.ImageServer?id=0154A000024CghgQAC&oid=00D410000012TJaEAM"
     }
 ]
